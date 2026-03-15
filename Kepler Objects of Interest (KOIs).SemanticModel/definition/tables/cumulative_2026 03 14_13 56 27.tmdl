@@ -1,0 +1,306 @@
+table 'cumulative_2026 03 14_13 56 27'
+	lineageTag: c7acca1e-5058-4c92-a48f-aebf1b22907b
+
+	measure '% por Categoria' =
+			
+			DIVIDE(
+			    COUNTROWS('cumulative_2026 03 14_13 56 27'),
+			    CALCULATE(
+			        COUNTROWS('cumulative_2026 03 14_13 56 27'),
+			        ALL('cumulative_2026 03 14_13 56 27'[koi_disposition])
+			    )
+			)*100
+		lineageTag: 938c90e1-ca58-4f2e-8851-4063ef412a7c
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column loc_rowid
+		dataType: int64
+		formatString: 0
+		lineageTag: 3d8e238a-416e-4c01-997a-2d882ce0f2bd
+		summarizeBy: sum
+		sourceColumn: loc_rowid
+
+		annotation SummarizationSetBy = Automatic
+
+	column kepid
+		dataType: int64
+		formatString: 0
+		lineageTag: 13514ad6-3e97-404d-a643-f8840c2d3a49
+		summarizeBy: sum
+		sourceColumn: kepid
+
+		annotation SummarizationSetBy = Automatic
+
+	column kepoi_name
+		dataType: string
+		lineageTag: 5d71421c-fd3e-4181-a83e-b226c641c6ba
+		summarizeBy: none
+		sourceColumn: kepoi_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column kepler_name
+		dataType: string
+		lineageTag: c4e889fe-a288-4d17-a65c-fd9b98c1851a
+		summarizeBy: none
+		sourceColumn: kepler_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_disposition
+		dataType: string
+		lineageTag: f76bd2f6-0542-4718-a777-144ba585e7f6
+		summarizeBy: none
+		sourceColumn: koi_disposition
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_pdisposition
+		dataType: string
+		lineageTag: 687f84f9-d877-4486-b487-c88783ee4b3b
+		summarizeBy: none
+		sourceColumn: koi_pdisposition
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_score
+		dataType: int64
+		formatString: 0
+		lineageTag: 2169b3ce-9546-43b9-a717-3888d010efc6
+		summarizeBy: sum
+		sourceColumn: koi_score
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_fpflag_nt
+		dataType: int64
+		formatString: 0
+		lineageTag: d99fb59b-8fc0-41ea-a7d9-cef0fa6ff945
+		summarizeBy: sum
+		sourceColumn: koi_fpflag_nt
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_fpflag_ss
+		dataType: int64
+		formatString: 0
+		lineageTag: 1eac20e5-6de0-49a2-8080-e951295c32c6
+		summarizeBy: sum
+		sourceColumn: koi_fpflag_ss
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_fpflag_co
+		dataType: int64
+		formatString: 0
+		lineageTag: 39d8085c-c99e-4f43-aa71-108c2293fc1c
+		summarizeBy: sum
+		sourceColumn: koi_fpflag_co
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_fpflag_ec
+		dataType: int64
+		formatString: 0
+		lineageTag: a8bdced2-0288-438a-b6f5-6b1a8a6aa20b
+		summarizeBy: sum
+		sourceColumn: koi_fpflag_ec
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_period
+		dataType: int64
+		formatString: 0
+		lineageTag: ef8b0515-90a7-494c-9bbc-e26aac2c4d54
+		summarizeBy: sum
+		sourceColumn: koi_period
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_time0bk
+		dataType: int64
+		formatString: 0
+		lineageTag: b5a686a6-dbf1-420d-a956-fe4494aeadbb
+		summarizeBy: sum
+		sourceColumn: koi_time0bk
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_impact
+		dataType: int64
+		formatString: 0
+		lineageTag: b1655720-2c06-49e5-a7bf-e57ec6761b91
+		summarizeBy: sum
+		sourceColumn: koi_impact
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_duration
+		dataType: int64
+		formatString: 0
+		lineageTag: f966ac0d-95d8-43d5-a3e0-c9d0dc2283c8
+		summarizeBy: sum
+		sourceColumn: koi_duration
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_depth
+		dataType: int64
+		formatString: 0
+		lineageTag: 925e357e-017b-4d8a-95cb-18c6bd8764f4
+		summarizeBy: sum
+		sourceColumn: koi_depth
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_ror
+		dataType: int64
+		formatString: 0
+		lineageTag: 44b5ab9d-9327-49fb-a8dd-70a662efe0e4
+		summarizeBy: sum
+		sourceColumn: koi_ror
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_prad
+		dataType: int64
+		formatString: 0
+		lineageTag: 21612e93-aff8-4f71-89c6-caa9357ec876
+		summarizeBy: sum
+		sourceColumn: koi_prad
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_teq
+		dataType: int64
+		formatString: 0
+		lineageTag: 04ad9550-e895-4ef2-a765-c5ab562ab4a5
+		summarizeBy: sum
+		sourceColumn: koi_teq
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_insol
+		dataType: int64
+		formatString: 0
+		lineageTag: fcbda74a-588a-4599-aebe-26f4cc276ac7
+		summarizeBy: sum
+		sourceColumn: koi_insol
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_model_snr
+		dataType: int64
+		formatString: 0
+		lineageTag: abeae9f8-ee70-4bf9-87bc-9dcc61c7a400
+		summarizeBy: sum
+		sourceColumn: koi_model_snr
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_tce_plnt_num
+		dataType: int64
+		formatString: 0
+		lineageTag: 4c3f1a16-876c-4764-a49d-aa4fe3cbda71
+		summarizeBy: sum
+		sourceColumn: koi_tce_plnt_num
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_tce_delivname
+		dataType: string
+		lineageTag: 55e6ebd4-25c6-4255-8919-80efb3a45992
+		summarizeBy: none
+		sourceColumn: koi_tce_delivname
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_quarters
+		dataType: double
+		lineageTag: ca49b22a-adc3-4dba-ae5e-76a014b0f2e4
+		summarizeBy: sum
+		sourceColumn: koi_quarters
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column koi_trans_mod
+		dataType: string
+		lineageTag: 684165ff-6644-43a8-bf43-447d3d8dfc89
+		summarizeBy: none
+		sourceColumn: koi_trans_mod
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_steff
+		dataType: int64
+		formatString: 0
+		lineageTag: e843f7b4-50fe-4be7-a739-b6f00a2d95d1
+		summarizeBy: sum
+		sourceColumn: koi_steff
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_slogg
+		dataType: int64
+		formatString: 0
+		lineageTag: f851dc86-125a-492c-b611-123816727e17
+		summarizeBy: sum
+		sourceColumn: koi_slogg
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_srad
+		dataType: int64
+		formatString: 0
+		lineageTag: 41e5b6d8-88be-4d92-aa05-049c10cb1fe6
+		summarizeBy: sum
+		sourceColumn: koi_srad
+
+		annotation SummarizationSetBy = Automatic
+
+	column ra
+		dataType: int64
+		formatString: 0
+		lineageTag: 206440d6-1edc-4568-862c-b0745ad3209a
+		summarizeBy: sum
+		sourceColumn: ra
+
+		annotation SummarizationSetBy = Automatic
+
+	column dec
+		dataType: int64
+		formatString: 0
+		lineageTag: 60ec54da-a366-4e02-acd2-2eec93c832c3
+		summarizeBy: sum
+		sourceColumn: dec
+
+		annotation SummarizationSetBy = Automatic
+
+	column koi_kepmag
+		dataType: int64
+		formatString: 0
+		lineageTag: 57d0f2a0-7a3c-44e8-b09f-593ccfcadeb9
+		summarizeBy: sum
+		sourceColumn: koi_kepmag
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'cumulative_2026 03 14_13 56 27' = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents("C:\Users\Patricia Montanger\Downloads\cumulative_2026.03.14_13.56.27.csv"),[Delimiter=",", Columns=31, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Alterar Tipo" = Table.TransformColumnTypes(Fonte,{{"Column1", type text}, {"Column2", type text}, {"Column3", type text}, {"Column4", type text}, {"Column5", type text}, {"Column6", type text}, {"Column7", type text}, {"Column8", type text}, {"Column9", type text}, {"Column10", type text}, {"Column11", type text}, {"Column12", type text}, {"Column13", type text}, {"Column14", type text}, {"Column15", type text}, {"Column16", type text}, {"Column17", type text}, {"Column18", type text}, {"Column19", type text}, {"Column20", type text}, {"Column21", type text}, {"Column22", type text}, {"Column23", type text}, {"Column24", type text}, {"Column25", type text}, {"Column26", type text}, {"Column27", type text}, {"Column28", type text}, {"Column29", type text}, {"Column30", type text}, {"Column31", type text}}),
+				    #"Linhas Superiores Removidas" = Table.Skip(#"Alterar Tipo",36),
+				    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(#"Linhas Superiores Removidas", [PromoteAllScalars=true]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(#"Cabeçalhos Promovidos",{{"loc_rowid", Int64.Type}, {"kepid", Int64.Type}, {"kepoi_name", type text}, {"kepler_name", type text}, {"koi_disposition", type text}, {"koi_pdisposition", type text}, {"koi_score", Int64.Type}, {"koi_fpflag_nt", Int64.Type}, {"koi_fpflag_ss", Int64.Type}, {"koi_fpflag_co", Int64.Type}, {"koi_fpflag_ec", Int64.Type}, {"koi_period", Int64.Type}, {"koi_time0bk", Int64.Type}, {"koi_impact", Int64.Type}, {"koi_duration", Int64.Type}, {"koi_depth", Int64.Type}, {"koi_ror", Int64.Type}, {"koi_prad", Int64.Type}, {"koi_teq", Int64.Type}, {"koi_insol", Int64.Type}, {"koi_model_snr", Int64.Type}, {"koi_tce_plnt_num", Int64.Type}, {"koi_tce_delivname", type text}, {"koi_quarters", type number}, {"koi_trans_mod", type text}, {"koi_steff", Int64.Type}, {"koi_slogg", Int64.Type}, {"koi_srad", Int64.Type}, {"ra", Int64.Type}, {"dec", Int64.Type}, {"koi_kepmag", Int64.Type}})
+				in
+				    #"Tipo Alterado"
+
+	annotation PBI_NavigationStepName = Navegação
+
+	annotation PBI_ResultType = Table
+

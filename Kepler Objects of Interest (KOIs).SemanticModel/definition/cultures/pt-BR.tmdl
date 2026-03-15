@@ -1,0 +1,2659 @@
+cultureInfo pt-BR
+
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "cumulative_2026_03_14_13_56_27": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "cumulative_2026 03 14_13 56 27": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.loc_rowid": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "loc_rowid"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "loc rowid": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "loc_rowid": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.kepid": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "kepid"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "kepid": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.kepoi_name": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "kepoi_name"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "kepoi name": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "kepoi_name": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "kepoi nickname": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "kepoi title": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "kepoi label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "kepoi tag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.kepler_name": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "kepler_name"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "kepler name": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "kepler_name": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "kepler": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "kepler nickname": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "kepler title": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "kepler label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "kepler tag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_disposition": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_disposition"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi disposition": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_disposition": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "disposition": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "koi nature": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi temperament": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi outlook": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi mood": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi personality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "nature": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "temperament": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "outlook": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "mood": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "personality": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_pdisposition": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_pdisposition"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi pdisposition": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_pdisposition": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_score": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_score"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi score": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_score": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "score": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "koi notch": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi slash": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi groove": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi nick": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi cut": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi mark": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "notch": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "slash": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "groove": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "nick": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_fpflag_nt": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_fpflag_nt"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi fpflag nt": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_fpflag_nt": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_fpflag_ss": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_fpflag_ss"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi fpflag ss": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_fpflag_ss": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_fpflag_co": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_fpflag_co"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi fpflag co": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_fpflag_co": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_fpflag_ec": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_fpflag_ec"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi fpflag ec": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_fpflag_ec": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_period": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_period"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi period": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_period": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "period": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "koi era": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "koi epoch": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "era": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "epoch": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "koi age": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "koi stage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "koi phase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "age": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.452
+			          }
+			        },
+			        {
+			          "stage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.452
+			          }
+			        },
+			        {
+			          "phase": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.452
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_time_0bk": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_time0bk"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi time 0bk": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_time0bk": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "koi duration 0bk": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "koi interval 0bk": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "koi moment 0bk": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "koi period 0bk": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "koi timetable 0bk": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_impact": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_impact"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi impact": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_impact": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "impact": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "koi impression": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "impression": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "koi influence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi effect": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi bearing": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi power": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi control": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "koi sway": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "influence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "effect": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_duration": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_duration"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi duration": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_duration": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "duration": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "koi length": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi extent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi interval": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "length": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "extent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "interval": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "koi spell": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "spell": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "Transit Duration [hrs]": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_depth": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_depth"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi depth": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_depth": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "depth": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "koi complexity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi penetration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi profundity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi deepness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi wisdom": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi seriousness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "koi gravity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "complexity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "penetration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "profundity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_ror": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_ror"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi ror": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_ror": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_prad": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_prad"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi prad": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_prad": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "prad": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "Planetary Radius [Earth radii]": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_teq": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_teq"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi teq": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_teq": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Equilibrium Temperature [K]": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_insol": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_insol"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi insol": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_insol": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_model_snr": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_model_snr"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi model snr": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_model_snr": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "snr": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "model snr": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_tce_plnt_num": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_tce_plnt_num"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi tce plnt num": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_tce_plnt_num": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "koi tce plnt number": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.748
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_tce_delivname": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_tce_delivname"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi tce delivname": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_tce_delivname": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_quarters"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_quarters": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "koi qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_trans_mod": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_trans_mod"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi trans mod": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_trans_mod": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "mod": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "trans mod": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_steff": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_steff"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi steff": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_steff": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_slogg": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_slogg"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi slogg": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_slogg": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_srad": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_srad"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi srad": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_srad": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.ra": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "ra"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ra": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.dec": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "dec"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dec": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.koi_kepmag": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "koi_kepmag"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "koi kepmag": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "koi_kepmag": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27.por_categoria": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "cumulative_2026 03 14_13 56 27",
+			          "ConceptualProperty": "% por Categoria"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% por categoria": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage por categoria": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "pct por categoria": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "%": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "cumulative_2026_03_14_13_56_27_has_por_categoria": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.por_categoria": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.por_categoria"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.por_categoria"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have__por_categoria"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_kepmag": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_kepmag": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_kepmag"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_kepmag"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_kepmags"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_dec": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.dec": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.dec"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.dec"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_dec"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_ra": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.ra": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.ra"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.ra"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_ra"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_srad": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_srad": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_srad"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_srad"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_srads"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_slogg": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_slogg": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_slogg"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_slogg"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_sloggs"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_steff": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_steff": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_steff"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_steff"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_steffs"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_trans_mod": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_trans_mod": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_trans_mod"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_trans_mod"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_trans_mod"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_quarter": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_quarters"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_tce_delivname": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_tce_delivname": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_tce_delivname"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_tce_delivname"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_tce_delivnames"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_tce_plnt_num": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_tce_plnt_num": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_tce_plnt_num"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_tce_plnt_num"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_tce_plnt_nums"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_model_snr": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_model_snr": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_model_snr"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_model_snr"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_model_snr"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_insol": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_insol": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_insol"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_insol"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_insols"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_teq": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_teq": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_teq"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_teq"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_teqs"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_prad": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_prad": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_prad"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_prad"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_prads"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_ror": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_ror": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_ror"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_ror"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_rors"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_depth": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_depth": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_depth"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_depth"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_depths"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_duration": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_duration": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_duration"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_duration"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_durations"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_impact": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_impact": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_impact"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_impact"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_impacts"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_time_0bk": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_time_0bk": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_time_0bk"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_time_0bk"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_time_0bks"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_period": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_period": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_period"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_period"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_periods"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_fpflag_ec": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_fpflag_ec": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_fpflag_ec"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_fpflag_ec"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_fpflag_ec"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_fpflag_co": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_fpflag_co": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_fpflag_co"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_fpflag_co"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_fpflag_co"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_fpflag_ss": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_fpflag_ss": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_fpflag_ss"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_fpflag_ss"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_fpflag_SSs"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_fpflag_nt": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_fpflag_nt": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_fpflag_nt"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_fpflag_nt"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_fpflag_nt"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_score": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_score": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_score"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_score"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_scores"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_pdisposition": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_pdisposition": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_pdisposition"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_pdisposition"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_pdispositions"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_koi_disposition": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.koi_disposition": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.koi_disposition"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.koi_disposition"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_koi_dispositions"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_kepler_name": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.kepler_name": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.kepler_name"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.kepler_name"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_kepler_names"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_kepoi_name": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.kepoi_name": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.kepoi_name"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.kepoi_name"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_kepoi_names"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_kepid": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.kepid": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.kepid"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.kepid"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_kepids"
+			        }
+			      ]
+			    },
+			    "cumulative_2026_03_14_13_56_27_has_loc_rowid": {
+			      "Binding": {
+			        "ConceptualEntity": "cumulative_2026 03 14_13 56 27"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "cumulative_2026_03_14_13_56_27": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27"
+			          }
+			        },
+			        "cumulative_2026_03_14_13_56_27.loc_rowid": {
+			          "Target": {
+			            "Entity": "cumulative_2026_03_14_13_56_27.loc_rowid"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "cumulative_2026_03_14_13_56_27"
+			            },
+			            "Object": {
+			              "Role": "cumulative_2026_03_14_13_56_27.loc_rowid"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "cumulative_2026_03_14_13_56_27_have_loc_rowids"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+

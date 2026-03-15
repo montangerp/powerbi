@@ -1,0 +1,119 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.6.0/schema.json",
+  "name": "ed5c03b35507551041d4",
+  "position": {
+    "x": 640,
+    "y": 0,
+    "z": 4000,
+    "height": 455.71428571428572,
+    "width": 640,
+    "tabOrder": 4000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "cumulative_2026 03 14_13 56 27"
+                    }
+                  },
+                  "Property": "kepler_name"
+                }
+              },
+              "queryRef": "cumulative_2026 03 14_13 56 27.kepler_name",
+              "nativeQueryRef": "Kepler Name",
+              "displayName": "Kepler Name"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "cumulative_2026 03 14_13 56 27"
+                    }
+                  },
+                  "Property": "koi_duration"
+                }
+              },
+              "queryRef": "Sum(cumulative_2026 03 14_13 56 27.koi_duration)",
+              "nativeQueryRef": "Transit Duration [hrs]",
+              "displayName": "Transit Duration [hrs]"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "cumulative_2026 03 14_13 56 27"
+                    }
+                  },
+                  "Property": "koi_prad"
+                }
+              },
+              "queryRef": "Sum(cumulative_2026 03 14_13 56 27.koi_prad)",
+              "nativeQueryRef": "Planetary Radius [Earth radii]",
+              "displayName": "Planetary Radius [Earth radii]"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "cumulative_2026 03 14_13 56 27"
+                    }
+                  },
+                  "Property": "koi_teq"
+                }
+              },
+              "queryRef": "Sum(cumulative_2026 03 14_13 56 27.koi_teq)",
+              "nativeQueryRef": "Equilibrium Temperature [K]",
+              "displayName": "Equilibrium Temperature [K]"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "cumulative_2026 03 14_13 56 27"
+                  }
+                },
+                "Property": "kepler_name"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ]
+      }
+    },
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "98.25456505369812D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "cumulative_2026 03 14_13 56 27.kepler_name"
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

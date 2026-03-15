@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Kepler Objects of Interest (KOIs)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "26d570d6-bbea-4645-88d4-f58a744cc530"
+  }
+}

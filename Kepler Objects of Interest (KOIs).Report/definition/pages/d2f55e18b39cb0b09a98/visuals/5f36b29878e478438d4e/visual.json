@@ -1,0 +1,271 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.6.0/schema.json",
+  "name": "5f36b29878e478438d4e",
+  "position": {
+    "x": 0,
+    "y": 465.71428571428572,
+    "z": 3000,
+    "height": 254.28571428571431,
+    "width": 1280,
+    "tabOrder": 2000
+  },
+  "visual": {
+    "visualType": "scatterChart",
+    "query": {
+      "queryState": {
+        "Series": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "cumulative_2026 03 14_13 56 27"
+                    }
+                  },
+                  "Property": "koi_disposition"
+                }
+              },
+              "queryRef": "cumulative_2026 03 14_13 56 27.koi_disposition",
+              "nativeQueryRef": "koi_disposition"
+            }
+          ]
+        },
+        "X": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "cumulative_2026 03 14_13 56 27"
+                    }
+                  },
+                  "Property": "kepid"
+                }
+              },
+              "queryRef": "Sum(cumulative_2026 03 14_13 56 27.kepid)",
+              "nativeQueryRef": "kepid",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "cumulative_2026 03 14_13 56 27"
+                    }
+                  },
+                  "Property": "koi_score"
+                }
+              },
+              "queryRef": "cumulative_2026 03 14_13 56 27.koi_score",
+              "nativeQueryRef": "koi_score"
+            }
+          ]
+        }
+      }
+    },
+    "objects": {
+      "categoryLabels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "bubbles": [
+        {
+          "properties": {
+            "markerShape": {
+              "expr": {
+                "Literal": {
+                  "Value": "'circle'"
+                }
+              }
+            }
+          },
+          "selector": {
+            "data": [
+              {
+                "scopeId": {
+                  "Comparison": {
+                    "ComparisonKind": 0,
+                    "Left": {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Entity": "cumulative_2026 03 14_13 56 27"
+                          }
+                        },
+                        "Property": "koi_disposition"
+                      }
+                    },
+                    "Right": {
+                      "Literal": {
+                        "Value": "'CANDIDATE'"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "dataPoint": [
+        {
+          "properties": {
+            "fill": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 8,
+                      "Percent": -0.25
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "data": [
+              {
+                "scopeId": {
+                  "Comparison": {
+                    "ComparisonKind": 0,
+                    "Left": {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Entity": "cumulative_2026 03 14_13 56 27"
+                          }
+                        },
+                        "Property": "koi_disposition"
+                      }
+                    },
+                    "Right": {
+                      "Literal": {
+                        "Value": "'CANDIDATE'"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "properties": {
+            "fill": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#07734B'"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "data": [
+              {
+                "scopeId": {
+                  "Comparison": {
+                    "ComparisonKind": 0,
+                    "Left": {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Entity": "cumulative_2026 03 14_13 56 27"
+                          }
+                        },
+                        "Property": "koi_disposition"
+                      }
+                    },
+                    "Right": {
+                      "Literal": {
+                        "Value": "'CONFIRMED'"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "properties": {
+            "fill": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 9,
+                      "Percent": -0.25
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "selector": {
+            "data": [
+              {
+                "scopeId": {
+                  "Comparison": {
+                    "ComparisonKind": 0,
+                    "Left": {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Entity": "cumulative_2026 03 14_13 56 27"
+                          }
+                        },
+                        "Property": "koi_disposition"
+                      }
+                    },
+                    "Right": {
+                      "Literal": {
+                        "Value": "'FALSE POSITIVE'"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'KOI Score'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
