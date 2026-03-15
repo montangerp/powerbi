@@ -9,7 +9,7 @@ table 'cumulative_2026 03 14_13 56 27'
 			        COUNTROWS('cumulative_2026 03 14_13 56 27'),
 			        ALL('cumulative_2026 03 14_13 56 27'[koi_disposition])
 			    )
-			)*100
+			)
 		lineageTag: 938c90e1-ca58-4f2e-8851-4063ef412a7c
 
 		annotation PBI_FormatHint = {"isGeneralNumber":true}
